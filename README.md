@@ -1,2 +1,2 @@
 # pseudomonas
-![Alt text](https://github.com/EMGgroup/pseudomonas/files/5299856/overview_figure_p.syringae_data_v2-converted.pdf "Title")
+![Alt text](https://user-images.githubusercontent.com/72088407/94574030-fa12de80-0272-11eb-9ce3-ffa956ef6390.png "Title")
